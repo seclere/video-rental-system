@@ -1,0 +1,104 @@
+Sinister
+Horror
+Blumhouse Production
+5
+Orphan
+Horror
+Dark Castle Entertainment
+5
+Poltergeist
+Horror
+Ghost House Pictures
+5
+Friday the 13th
+Horror
+Platinum Dunes
+5
+The Saw
+Horror
+Twisted Pictures
+5
+The Notebook
+Romance
+Warner Bros.
+5
+First 50 dates
+Romance
+Sony Pictures
+5
+Beauty and the beast
+Romance
+Walt Disney
+5
+Titanic
+Romance
+20th Century Studios
+5
+Love, Rosie
+Romance
+Paramount Pictures
+6
+Avengers Endgame
+Sci-Fi
+Marvel Studios
+5
+Avatar
+Sci-Fi
+Lightstorm Entertainment
+5
+Transformers
+Sci-Fi
+Paramount Pictures
+5
+Dune
+Sci-Fi
+Legendary Pictures
+5
+Everything Everywhere all at once
+Sci-Fi
+IAC Films
+5
+John Wick
+Action
+Thunder Road Pictures
+5
+Fast and Furious
+Action
+Universal Pictures
+5
+Kill Bill
+Action
+Miramax
+5
+Mad Max
+Action
+Warner Bros.
+5
+The Terminator
+Action
+20th Century Studios
+5
+The Bear Cocaine
+Comedy
+Universal Pictures
+5
+Scary Movie
+Comedy
+Miramax
+5
+No Hard Feelings
+Comedy
+Excellent Cadaver
+5
+Ghostbusters
+Comedy
+Columbia Pictures
+5
+Bridesmaids
+Comedy
+Universal Pictures
+5
+Moana
+Animation
+Disney
+5
